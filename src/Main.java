@@ -86,6 +86,5 @@ public class Main {
             // выброс ошибки в ином случае
             throw new RuntimeException("Ошибка: Введевены некоректные данные.");
         }
-        System.out.println("Поздравляю, вы прошли игру!");
     }
 }
